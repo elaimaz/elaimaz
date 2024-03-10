@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World! 👋. I am Wesley de Faria Cazelli
+
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedln-Linkedln?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwesley-de-faria-cazelli-8850b01b0%2F">
+</p>
 
 <!--
 **elaimaz/elaimaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
