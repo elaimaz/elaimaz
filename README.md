@@ -1,7 +1,9 @@
 ### Hello World! 👋. I am Wesley de Faria Cazelli
 
 <p>
-<img alt="Static Badge" src="https://img.shields.io/badge/Linkedln-Linkedln?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwesley-de-faria-cazelli-8850b01b0%2F">
+    <a href="https://www.linkedin.com/in/wesley-de-faria-cazelli-8850b01b0/">
+        <img src="https://img.shields.io/badge/Linkedln-Linkedln?style=for-the-badge&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwesley-de-faria-cazelli-8850b01b0%2F" />
+    </a>
 </p>
 
 <!--
