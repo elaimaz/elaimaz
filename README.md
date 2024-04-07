@@ -19,6 +19,9 @@
     <a href="https://www.facebook.com/wesley.cazelli">
         <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-grey?style=for-the-badge&logo=facebook&color=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fwesley.cazelli">
     </a>
+    <a href="https://discord.com/users/252616631837130753">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Discord-brightgreen?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F252616631837130753">
+    </a>
 </p>
 
 <!--
