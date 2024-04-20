@@ -1,4 +1,4 @@
-### Hello World! 👋. I am Wesley de Faria Cazelli
+### 👋 Hello World! I am Wesley de Faria Cazelli
 
 <p>
     <a href="https://www.linkedin.com/in/wesley-de-faria-cazelli-8850b01b0/">
@@ -22,7 +22,13 @@
     <a href="https://discord.com/users/252616631837130753">
         <img alt="Static Badge" src="https://img.shields.io/badge/Discord-brightgreen?style=for-the-badge&logo=discord&logoColor=white&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F252616631837130753">
     </a>
-</p>
+        <img alt="Static Badge" src="https://img.shields.io/badge/TikTok-passing?style=for-the-badge&logo=tiktok&color=%23000000&link=https%3A%2F%2Fwww.tiktok.com%2F%40wesleycazelli%3Fis_from_webapp%3D1%26sender_device%3Dpc">
+</p>  
+
+---  
+
+### :technologist: Who am i?
+
 
 <!--
 **elaimaz/elaimaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
