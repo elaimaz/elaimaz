@@ -28,7 +28,10 @@
 ---  
 
 ### :technologist: Who am i?
+A Brazilian developer (since 2019) with a degree in Computer Science. Currently, I am working in the field of ATMs and digital payments.  
+In addition to my work, I am fascinated by topics such as performance and game development in computing, constantly seeking to expand my knowledge in these areas.
 
+Outside the world of technology, my personal interests include sports, hiking, music, games, books, and cinema.
 
 <!--
 **elaimaz/elaimaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
